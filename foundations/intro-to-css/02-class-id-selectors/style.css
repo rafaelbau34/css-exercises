@@ -1,0 +1,19 @@
+.not-easy {
+background-color: rgba(238, 155, 189, 0.993);
+font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.not-easy.diff, #fourth {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#fourth {
+    background-color: rgb(128, 238, 128);
+    font-weight: bold;
+}
